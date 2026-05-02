@@ -1,1 +1,95 @@
+[
 
+{
+
+"name" : "Coin Master",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "1st",
+"gold" : "100,000"
+},
+{
+
+"name" : "Xeno",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "2nd",
+"gold" : "90,000"
+},
+{
+
+"name" : "Peyn",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "3rd",
+"gold" : "70,000"
+},
+
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "4th",
+"gold" : "60,000"
+},
+
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "5th",
+"gold" : "60,000"
+},
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "6th",
+"gold" : "60,000"
+},
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "7th",
+"gold" : "60,000"
+},
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "8th",
+"gold" : "60,000"
+},
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "9th",
+"gold" : "60,000"
+},
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "10th",
+"gold" : "60,000"
+},
+
+{
+
+"name" : "Unknown",
+"image" :
+"https://github.com/tin0521/mge/raw/refs/heads/main/Picsart_26-04-26_19-22-54-372.png",
+"place" : "11th",
+"gold" : "60,000"
+}
+
+]
